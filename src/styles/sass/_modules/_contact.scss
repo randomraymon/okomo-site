@@ -1,0 +1,76 @@
+.content--contact {
+
+  color: black;
+
+  .screen--landing {
+
+    overflow: hidden;
+  }
+
+  .contact-info {
+    max-width: 400px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 40px;
+
+    p {
+      margin-bottom: 60px;
+    }
+
+
+    a {
+      margin: 20px auto;
+      color: $hero;
+      width: 100%;
+      text-align: center;
+      border: 1px solid $hero;
+      border-radius: $border-radius;
+      padding: 10px 15px;
+      transition: $transition-time;
+      cursor: pointer;
+
+      &:hover {
+        background: $hero;
+        color: white;
+      }
+    }
+  }
+
+  .form--success--message {
+
+    width: 80%;
+    max-width: 400px;
+    font-size: 30px;
+    margin: 150px auto;
+  }
+
+  .spacer {
+    height: 100vh;
+  }
+
+  h3 {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+
+
+  @media screen and (max-width: $breakpoint--small) {
+
+    .contact-info {
+      margin-top: 210px;
+
+    }
+
+  }
+
+}
+
+#Contact, #Kontakt, #Schedule, #Demo {
+  iframe {
+    display: unset !important;
+    position: absolute !important;
+    z-index: 1 !important;
+    top: 120vh !important;
+  }
+}

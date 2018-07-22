@@ -1,0 +1,57 @@
+//
+// Spacing
+//
+
+$menu-height: 50px;
+$spacing--side: 70px;
+$spacing--extra-extra-small: 5px;
+$spacing--extra-small: 10px;
+$spacing--small: 15px;
+$spacing--medium: 20px;
+$spacing--large: 30px;
+
+
+//
+// Colors
+//
+
+$white: #fff;
+$black: #333;
+$gray: #ddd;
+$gray--medium: #aaa;
+$hero: #128d92;
+
+//
+// Colors
+//
+
+$font--extra-extra-small: 1.003750010037504rem; //12px;
+// $font--extra-small: 0.938rem; // 15px
+$font--extra-small: 1rem;
+$font--small: 1.25rem; // 20px;
+// $font--medium: 1.563rem; // 25px;
+$font--medium: 1.7rem;
+$font--large: 2.500rem; // 40px;
+$font--extra-large: 3.125em;// 50px;
+$font--extra-extra-large: 3.25rem;// 60px;
+$font--extra-extra-extra-large: 6rem;// 120px;
+
+$light: 300;
+$regular: 400;
+$bold: 700;
+
+//
+// Breakpoints
+//
+
+$breakpoint--large: 1024px;
+$breakpoint--medium: 768px;
+$breakpoint--small: 480px;
+
+
+//
+// Other
+//
+
+$border-radius: 5px;
+$transition-time: .3s;

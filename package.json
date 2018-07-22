@@ -1,0 +1,33 @@
+{
+  "name": "okomo",
+  "version": "1.0.0",
+  "description": "okomo website",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "greensock": "^1.20.2",
+    "gsap": "^1.20.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-cli": "^2.0.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.3.1",
+    "scrollmagic": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salemoche/okomo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salemoche/okomo/issues"
+  },
+  "homepage": "https://github.com/Salemoche/okomo#readme"
+}

@@ -1,0 +1,122 @@
+.content--about-us {
+
+  .screen--landing {
+    height: 100vh;
+  }
+
+  .about-us__intro-text {
+
+
+    margin-top: 30vw;
+    width: 100%;
+
+    h2 {
+      margin: 0 auto;
+      margin-bottom: 30px;
+      font-size: 3.25rem;
+      font-weight: 700;
+      text-align: center;
+      max-width: 80%;
+    }
+
+    h3 {
+      margin: 0 auto;
+      margin-bottom: 100px;
+      font-size: 1.7rem;
+      font-weight: 400;
+      text-align: center;
+      max-width: 80%;
+    }
+  }
+
+
+
+  .team {
+
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 100px $spacing--side;
+    text-align: center;
+
+    h4 {
+      font-size: $font--small;
+    }
+
+    h5 {
+      font-size: $font--extra-small;
+      color: $gray--medium;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: $font--extra-small;
+    }
+
+    &__member {
+
+      min-width: 25%;
+      max-width: 30%;
+      flex-grow: 1;
+      margin-bottom: 50px;
+      transition: $transition-time;
+      cursor: pointer;
+
+
+      &__image {
+        overflow: hidden;
+        width: 160px;
+        height: 160px;
+        border-radius: 50%;
+        margin: 20px auto;
+      }
+
+      &:hover {
+        transform: scale(1.01);
+      }
+    }
+  }
+
+
+
+  @media screen and (max-width: $breakpoint--medium) {
+
+    .screen--landing {
+      height: 50vh;
+    }
+
+    .team {
+
+      &__member {
+        min-width: 48%;
+        max-width: 50%;
+      }
+    }
+  }
+
+  @media screen and (max-width: $breakpoint--small) {
+
+    .about-us__intro-text {
+
+      h2 {
+        font-size: $font--large;
+      }
+
+      h3 {
+        font-size: $font--small;
+        margin-bottom: 0;
+      }
+    }
+
+    .team {
+
+      &__member {
+        width: 100%;
+        min-width: 0%;
+        max-width: 100%;
+      }
+    }
+  }
+
+}

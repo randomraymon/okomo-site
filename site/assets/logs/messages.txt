@@ -1,0 +1,29 @@
+2018-03-28 16:10:07	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;headline&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-03-28 16:10:07	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;summary&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-03-28 16:10:07	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;body&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-03-28 16:10:07	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;sidebar&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-03-28 16:10:07	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Added filedata to DB schema for 'images'
+2018-03-28 16:10:07	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;images&quot; data in 2 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-03-28 16:18:29	salemoche	http://localhost/okomo/processwire/profile/	Profile saved - admin_theme
+2018-03-28 16:18:35	salemoche	http://localhost/okomo/processwire/setup/languages/	Added filedata to DB schema for 'language_files'
+2018-03-28 16:18:35	salemoche	http://localhost/okomo/processwire/setup/languages/	Added filedata to DB schema for 'language_files_site'
+2018-03-29 08:48:09	salemoche	http://localhost/okomo/processwire/setup/field/save	Deleted field &quot;headline2&quot; data in 3 row(s) from 3 page(s) using template &quot;repeater_home_keyimage&quot;. [page-by-page]
+2018-03-29 08:48:25	salemoche	http://localhost/okomo/processwire/setup/field/save	Deleted field &quot;headline2&quot; data in 4 row(s) from 4 page(s) using template &quot;repeater_home_keypoints&quot;. [page-by-page]
+2018-03-29 08:48:38	salemoche	http://localhost/okomo/processwire/setup/field/save	Deleted field &quot;headline2&quot; data in 1 row(s) from 1 page(s) using template &quot;repeater_home_keystatement&quot;. [page-by-page]
+2018-03-29 08:48:50	salemoche	http://localhost/okomo/processwire/setup/field/save	Deleted field &quot;headline2&quot; data in 1 row(s) from 1 page(s) using template &quot;repeater_home_landingscreen&quot;. [page-by-page]
+2018-03-29 09:01:17	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;home_keypoints&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-03-30 18:24:55	salemoche	http://localhost/okomo/processwire/page/sort/	Updated sort for 8 pages
+2018-03-30 18:25:02	salemoche	http://localhost/okomo/processwire/page/sort/	Updated sort for 5 pages
+2018-03-30 18:25:08	salemoche	http://localhost/okomo/processwire/page/sort/	Updated sort for 3 pages
+2018-04-03 09:50:27	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;summary&quot; data in 3 row(s) from 3 page(s) using template &quot;basic-page&quot;. [page-by-page]
+2018-04-03 09:50:27	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;body&quot; data in 4 row(s) from 4 page(s) using template &quot;basic-page&quot;. [page-by-page]
+2018-04-03 09:50:27	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;sidebar&quot; data in 1 row(s) from 1 page(s) using template &quot;basic-page&quot;. [page-by-page]
+2018-04-03 09:50:27	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;images&quot; data in 0 row(s) from 0 page(s) using template &quot;basic-page&quot;. [page-by-page]
+2018-04-03 10:21:50	salemoche	http://localhost/okomo/processwire/page/sort/	Updated sort for 1 pages
+2018-04-03 11:33:27	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;contact_info&quot; data in 0 row(s) from 0 page(s) using template &quot;settings&quot;. [page-by-page]
+2018-04-03 21:42:40	salemoche	http://localhost/okomo/processwire/setup/field/save	Deleted field &quot;subtitle&quot; data in 1 row(s) from 1 page(s) using template &quot;repeater_features_item&quot;. [page-by-page]
+2018-04-04 14:09:18	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;image&quot; data in 0 row(s) from 0 page(s) using template &quot;solutions&quot;. [page-by-page]
+2018-04-04 14:09:18	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;home_keyimage&quot; data in 0 row(s) from 0 page(s) using template &quot;solutions&quot;. [page-by-page]
+2018-04-04 14:09:18	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;home_keystatement&quot; data in 0 row(s) from 0 page(s) using template &quot;solutions&quot;. [page-by-page]
+2018-04-04 14:09:18	salemoche	http://localhost/okomo/processwire/setup/template/removeFields	Deleted field &quot;home_quote&quot; data in 0 row(s) from 0 page(s) using template &quot;solutions&quot;. [page-by-page]
+2018-04-04 16:42:08	salemoche	http://localhost/okomo/processwire/setup/field/save	Deleted field &quot;image3&quot; data in 1 row(s) from 1 page(s) using template &quot;repeater_solutions_landing&quot;. [page-by-page]

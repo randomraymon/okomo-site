@@ -1,0 +1,48 @@
+.content--basic {
+
+  .basic--elements {
+    padding: $spacing--side;
+    position: relative;
+
+    h1 {
+      font-size: 2rem;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+    }
+
+  }
+
+
+  .screen, .screen--landing {
+    h1 {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      width: 100%;
+      padding: 0 $spacing--side;
+      margin-bottom: $spacing--small;
+      position: absolute;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%);
+      font-weight: $light;
+      text-align: center;
+    }
+  }
+
+
+
+
+
+  .basic--element {
+    margin-bottom: 30px;
+  }
+
+}
